@@ -1,0 +1,6 @@
+# Library files
+/vendor
+
+# Env Files
+config.bat
+node_modules
